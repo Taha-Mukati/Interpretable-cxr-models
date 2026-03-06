@@ -7,12 +7,7 @@ ckpt = torch.load(
     weights_only=False,  # important for old checkpoints
 )
 
-tokenizer = ckpt["model"]
+cfg = ckpt["config"]
 
-print("\nmodel top-level keys:")
-pprint(tokenizer.keys())
-
-
-
-print("Top-level keys:")
-pprint(ckpt.keys())
+print(type(cfg))
+print(cfg)
