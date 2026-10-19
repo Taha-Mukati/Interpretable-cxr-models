@@ -1,0 +1,695 @@
+hit,peak_row,peak_col,pathology_name,image_id,method_name
+True,802,660,Cardiomegaly,9660a22d-c7205491-7e14e486-17a71603-95610c63,gradcam++
+False,509,363,Cardiomegaly,b9a2f699-c72f1411-04649240-170bde26-1fd058ee,gradcam++
+True,514,514,Cardiomegaly,1e3a3db6-88c342bf-3bc16f91-9e5f82d3-0dbe6b1a,gradcam++
+False,221,656,Cardiomegaly,36024fc7-5f6f5805-fb893533-7b1e5f73-252c832b,gradcam++
+True,656,802,Cardiomegaly,46b76292-e2460116-8183b54a-bbb5c467-cb1340e7,gradcam++
+True,656,655,Cardiomegaly,017972f9-be272b06-fdbb8041-d665a18e-e8edaa59,gradcam++
+True,513,510,Cardiomegaly,91b01e89-3134680a-79e7485f-c322eed4-4e8bc755,gradcam++
+True,655,510,Cardiomegaly,086e7e5d-9eaacadd-0acf0533-639b1bf1-9fc73a37,gradcam++
+True,514,656,Cardiomegaly,78626e0b-e67aabf5-87fd035f-bc45da17-bc819500,gradcam++
+True,660,655,Cardiomegaly,ec8ff472-7a5c52c3-1c88fad5-4081d595-9dbe483a,gradcam++
+True,514,514,Cardiomegaly,b097475d-2f758669-db036efe-1d8958e7-3309c831,gradcam++
+True,660,802,Cardiomegaly,7ae3717f-c7320639-5d5e72ec-0e4f9376-649dd05f,gradcam++
+True,509,510,Cardiomegaly,565f8ca0-047ec9c2-974adef1-5f583e08-67e4e381,gradcam++
+True,802,660,Cardiomegaly,1352b64c-adb99500-186d7e7e-6e734cb8-bf57f4d0,gradcam++
+True,660,660,Cardiomegaly,7683c077-168201c7-9e6f8f6a-f18ccee6-de632b99,gradcam++
+True,510,514,Cardiomegaly,a1c054db-3e19de35-95c7e5c3-26392ff7-c8ae57b6,gradcam++
+True,656,656,Cardiomegaly,bd380480-18080dd0-b3c8740d-2c9cc47f-22fc804a,gradcam++
+True,660,660,Cardiomegaly,1b3751a5-bfbd8d99-802fbdb4-9801d5a9-996ae85c,gradcam++
+True,656,660,Cardiomegaly,08528c6b-1b282deb-a2fee9a8-c2cc85cf-93bda9db,gradcam++
+True,660,802,Cardiomegaly,91dac98f-97e70520-91986917-7aea6781-c3a4000e,gradcam++
+False,802,802,Cardiomegaly,800a9afc-d9fc9ba8-09e366b8-dcc18922-cc73661c,gradcam++
+True,656,655,Cardiomegaly,4cee23a3-9a838075-97192d17-d8df7e81-2c1b7d45,gradcam++
+True,514,660,Cardiomegaly,8f027344-a710437b-10088b30-dacd8c9b-9eeff5dd,gradcam++
+True,660,656,Cardiomegaly,9aa2d2ef-75757f20-1b280572-ecf550bd-20a6e9a6,gradcam++
+True,514,656,Cardiomegaly,232618ff-c69d64fd-fd0db651-cff0848e-dc603719,gradcam++
+True,655,660,Cardiomegaly,d0e904ef-73df08ab-3f864ddd-f0c91278-93d41cf1,gradcam++
+True,660,509,Cardiomegaly,14707fdf-77cccb0f-91620421-a679459f-dc4df9d8,gradcam++
+True,513,655,Cardiomegaly,188c4f0d-ef3cbfe0-17ec1d84-d4e75f17-4854a1ec,gradcam++
+True,514,806,Cardiomegaly,372c9e04-d76e9d3b-d0a01bd5-a0352313-a4282656,gradcam++
+False,368,656,Cardiomegaly,e78c8570-bbf33acd-1beac612-51866992-6eeed67c,gradcam++
+True,513,510,Cardiomegaly,10ff1e8d-de15c292-da735f51-19942933-dff954d5,gradcam++
+True,660,656,Cardiomegaly,b947d072-f56c64dc-74314379-52ce73d8-c1f460b6,gradcam++
+False,222,367,Cardiomegaly,a850774f-bb2b6bac-0a694bf2-01579b32-83d6e115,gradcam++
+True,660,660,Cardiomegaly,6df26ecd-b3df63d4-4a5cd952-0f6292d9-9d3b7f06,gradcam++
+True,656,509,Cardiomegaly,ccc10b28-cac1cf44-bfa1bac2-d6f753c3-d00bcd3c,gradcam++
+True,514,660,Cardiomegaly,bb980588-a06595b8-a21b9df7-e533d512-1acbef7c,gradcam++
+True,514,660,Cardiomegaly,16235159-a9408546-e1f6d449-e2c363ae-d38de409,gradcam++
+True,514,660,Cardiomegaly,4de49b89-0e64df88-4a81848e-83cf1dd9-dcdff80d,gradcam++
+True,514,660,Cardiomegaly,cf01bb5c-baebdadd-5afc23b1-4bcdde0b-5b326caf,gradcam++
+True,660,656,Cardiomegaly,4577f371-5de406f8-93c4e89c-c8b793ba-08ff836d,gradcam++
+False,660,802,Cardiomegaly,5e90cc83-194bcbdd-6dcaa975-330b146c-96e51b3f,gradcam++
+True,509,656,Cardiomegaly,2257029e-a67059ed-8493f8b6-11cb0d54-4f8be76d,gradcam++
+True,513,509,Cardiomegaly,480340d3-83623545-27c441b4-2e9397fa-100a485d,gradcam++
+True,509,660,Cardiomegaly,144f413e-4e8bdb64-6f004ccc-e91f7f6f-387acffc,gradcam++
+True,513,655,Cardiomegaly,cd9ea248-12ea07e7-ab3ce504-10814379-c9224cfa,gradcam++
+True,514,655,Cardiomegaly,aba4f0f0-627a58b6-8300f22c-3d8c8fc4-901399a7,gradcam++
+False,656,801,Cardiomegaly,37047a7c-74ca62d0-bb39f0f0-1b7cf49c-d9b5ac96,gradcam++
+False,802,806,Cardiomegaly,18bf09c5-2db728cc-60ba77b7-1f9beb7d-e03802f8,gradcam++
+False,514,802,Cardiomegaly,232aff81-bafba6f9-5fb54a08-96c3c962-1467944e,gradcam++
+True,510,656,Cardiomegaly,b838bb5c-5d7070e1-9fa3c5c1-94a81f87-40666b67,gradcam++
+True,660,802,Cardiomegaly,8f146089-3a62ee81-854b0fe5-02573652-e6f05628,gradcam++
+True,514,655,Cardiomegaly,b2486819-f156351e-4c5a2538-6034f2b5-bf41ce33,gradcam++
+True,367,656,Cardiomegaly,33352f5d-693a8583-42ebb5eb-7d9c62f4-b32b9dfe,gradcam++
+True,514,510,Cardiomegaly,83f16eb5-d37d3157-e7e85d1d-f73a07e6-b5eb21b5,gradcam++
+True,513,514,Cardiomegaly,da30926d-d6f0e433-42be1638-534293e3-9d02d544,gradcam++
+True,660,660,Cardiomegaly,db377df1-b600ad8f-fcd65e6c-140d9029-f15f954b,gradcam++
+True,656,514,Cardiomegaly,96e0139e-dceaaa29-60741129-cc7fa054-2c742ccb,gradcam++
+True,510,656,Cardiomegaly,bc09b81b-95d250b8-0a8700ae-9bfd8f75-ef166442,gradcam++
+False,807,953,Cardiomegaly,f33a8899-97078669-2deef089-9665f442-c0a1a492,gradcam++
+True,660,660,Cardiomegaly,fcaf3dc9-4b39022c-8b0c9003-73ab718b-bc215c22,gradcam++
+True,655,660,Cardiomegaly,bb6b721f-1326aac0-98999547-100b687b-a3810ccb,gradcam++
+True,806,514,Cardiomegaly,40745b17-3c91a1cf-d08ceb24-d2dd2b1d-533148ab,gradcam++
+True,802,660,Cardiomegaly,b2b8584a-e5dc3aeb-eb8b6cb3-d26e277c-c0b1f1f3,gradcam++
+True,661,660,Cardiomegaly,30ffaca7-bd9e6dd9-e64666d3-54b497b5-89043711,gradcam++
+True,655,660,Cardiomegaly,a51fb4c5-7544ad8b-afa2124e-ae189224-cb9d171b,gradcam++
+False,801,802,Cardiomegaly,c5088832-45421132-aa968dc0-8c4f9874-6f40bae3,gradcam++
+True,656,660,Cardiomegaly,5185b905-3f8c3850-e2eed3d6-9c5c1d2e-f85ff27a,gradcam++
+True,660,660,Cardiomegaly,31e467ed-7ee7b762-da82f22d-98618cdb-7e0f406d,gradcam++
+True,660,660,Cardiomegaly,e98a4959-cad29ad5-86c0043c-81e76392-fb6b7291,gradcam++
+True,660,513,Cardiomegaly,0ff0bb39-4a3b9b22-0150d88d-040cd9e6-c1d6078b,gradcam++
+True,656,514,Cardiomegaly,925465fd-dd62ea2e-f52e712d-10a0c749-7b073905,gradcam++
+True,660,656,Cardiomegaly,ef69b2ab-155fd484-dc88333d-03bf0397-b023d84c,gradcam++
+True,660,660,Cardiomegaly,c50c789b-ca919a37-7dc01ec7-8e4887e6-46cfe1d9,gradcam++
+True,514,656,Cardiomegaly,24f2487c-805df15d-b9d7f29e-2d761b7a-dadd1350,gradcam++
+False,368,656,Cardiomegaly,9bf04268-30d3df5d-ff35de03-c87e9be5-3bd4bb36,gradcam++
+True,660,656,Cardiomegaly,46af9527-aad4672d-5e6f515e-40f5c91c-f6adac5a,gradcam++
+True,806,656,Cardiomegaly,c28b4dbb-6b033319-488e222d-e1956eae-0a31fe90,gradcam++
+True,655,656,Cardiomegaly,b86fcaa0-fd7dc61a-d34f8cf1-4ddae25e-d466849f,gradcam++
+True,514,514,Cardiomegaly,3cd96fb0-84e4cae1-f1b7ed52-f3cb3b78-74607b8f,gradcam++
+True,660,509,Cardiomegaly,4c27eeb8-d000e479-e8f78a9e-78a754c3-1d7b8612,gradcam++
+False,514,802,Cardiomegaly,8affa5dd-4d579bc8-01c3a4a4-3b767500-df327afe,gradcam++
+False,660,807,Cardiomegaly,e8147755-a62f3f68-f77a5fce-dc6e4709-85b06d63,gradcam++
+True,656,660,Cardiomegaly,7606447e-3fbf1975-ce06b8a4-2f8a9032-6b08b0de,gradcam++
+False,514,509,Cardiomegaly,0869df6e-7dc51baa-a2ca000b-ff62cc05-069c9e24,gradcam++
+False,368,656,Cardiomegaly,ea2939ca-f693073a-c6ce083d-9c2de790-b7d3b18b,gradcam++
+True,660,660,Cardiomegaly,499d8406-84b19b84-6e35919f-27f2bafa-4bf526a6,gradcam++
+True,660,655,Cardiomegaly,41e47781-1e023186-0a1bec0e-532dd6c3-891e942e,gradcam++
+True,514,514,Cardiomegaly,507d982b-df2631b2-6144bbeb-aac6df41-6f0e1b16,gradcam++
+True,660,656,Cardiomegaly,a8f039c8-b6e5ec7f-f7cb9df0-6b5969e0-f4961084,gradcam++
+True,514,656,Cardiomegaly,898d2069-4bad728f-50d6fb56-f2f0b70c-3549005b,gradcam++
+True,514,660,Cardiomegaly,54be7b41-6ccbe540-c13a04e0-8c585f62-7bc241d4,gradcam++
+False,221,510,Cardiomegaly,5948d3b4-a9f10e45-6aef11a5-490b4ff5-5c44c794,gradcam++
+False,953,802,Cardiomegaly,5593bbaa-1ac0ca12-ab90fde6-c3a0bea4-9f3e2788,gradcam++
+False,660,801,Cardiomegaly,e0cf0111-2857eb73-45f26659-4b10abf5-29e6ec15,gradcam++
+True,660,514,Cardiomegaly,5935cdc9-3af6d48f-adb9af93-a7854cfe-66b5c48f,gradcam++
+True,367,656,Cardiomegaly,e1c9900d-6e2fcf35-01688104-bed4ea6f-d6b27eca,gradcam++
+False,660,802,Cardiomegaly,a8c7ed74-1c3c2faa-8871cc94-aa1a95f5-cfc56be5,gradcam++
+True,513,656,Cardiomegaly,6034c008-a17708e1-00c902bf-22a171e0-bf470297,gradcam++
+False,953,953,Cardiomegaly,6dd6a94a-1567b4e6-1ce858e4-472e1da6-160708ef,gradcam++
+True,510,656,Cardiomegaly,bc8fa3c0-b6446bbb-610cf549-6c71de0f-c092e1ab,gradcam++
+False,514,801,Cardiomegaly,6d90a0e6-96d9d44e-18700b5d-84cf598b-32551a74,gradcam++
+False,806,806,Cardiomegaly,193cbbc1-548808d5-55a73113-f5277230-8c65e8a1,gradcam++
+True,806,661,Cardiomegaly,33b17fd3-954debc8-41740197-486ed985-eb3b5586,gradcam++
+True,660,655,Cardiomegaly,c17350d4-63fee3ef-8c994faf-bf37988c-94637466,gradcam++
+True,660,802,Cardiomegaly,b3e276c9-a579782d-0131c397-3843bf7a-f27dc559,gradcam++
+True,656,656,Cardiomegaly,448e8b75-c6a3146d-ffbd6bbe-d77b1f17-e5f76e00,gradcam++
+True,514,656,Cardiomegaly,36940cd3-18806bec-586cbd84-73f3a125-fa1c0a2f,gradcam++
+True,660,510,Cardiomegaly,4febe536-a45fe124-f5c6dba8-72223f31-db4c9223,gradcam++
+False,656,953,Cardiomegaly,6db57f9d-80675d2c-4c9e51bb-3885b847-aa46b284,gradcam++
+True,513,368,Cardiomegaly,505f941d-8eaa1b99-cf2c1281-b77d7153-ae2b0edb,gradcam++
+True,660,655,Cardiomegaly,d780b974-0792069b-cf75b55d-e4554a45-513e01e4,gradcam++
+True,513,509,Cardiomegaly,ed13a8f1-bab148ea-a58c1c25-02da10c1-0d7102f4,gradcam++
+True,660,656,Cardiomegaly,83f5a031-0ec4d5f2-cc880a1d-b4313d00-1f161d61,gradcam++
+True,509,660,Cardiomegaly,bc182f01-c2d5efed-4e10e278-d1337a16-92b2b75f,gradcam++
+True,514,660,Cardiomegaly,f28d3048-5f6c3255-089420f7-8d985e28-994588f7,gradcam++
+True,656,802,Cardiomegaly,4af5ef10-b31597bb-6ca61f99-07e801b4-410d419d,gradcam++
+True,660,660,Cardiomegaly,2e17090f-3192b8ab-f508910e-0de5c8a9-35ba3bff,gradcam++
+True,513,513,Cardiomegaly,8d98989f-2dd76c0f-ba19ce95-c0eb7c24-54e1b718,gradcam++
+True,806,661,Cardiomegaly,2e2f1e22-705c10f5-e975772e-3f03719a-8981605c,gradcam++
+True,660,656,Cardiomegaly,b9fe5828-fce85b67-e73ad23e-ae5eb842-169f65d0,gradcam++
+True,367,514,Cardiomegaly,82b03110-262a2a8e-541084a0-d23247d9-a58f9b59,gradcam++
+True,655,802,Cardiomegaly,4c61bb70-019d0558-27046826-9217a388-96b2a627,gradcam++
+True,509,514,Cardiomegaly,c7b3aded-3ef5a8ad-4cdf378d-d5bc0e28-886b9da1,gradcam++
+True,806,368,Cardiomegaly,f22343e5-0e418739-02d32407-0060afd5-7d54fe10,gradcam++
+False,509,802,Cardiomegaly,ba0bb35d-1c5b4051-9ce1aa85-5d4e892e-b063ed14,gradcam++
+True,660,509,Cardiomegaly,4526fb66-2c75622f-bedeb010-9751a446-ea357115,gradcam++
+True,514,656,Cardiomegaly,b646a009-e30b47a7-b50de104-c7325b3a-2ce490a3,gradcam++
+True,655,656,Cardiomegaly,4b4ec5cf-6ac3a345-97d16d71-ee5cf03b-ed101aaa,gradcam++
+True,655,509,Cardiomegaly,028ae709-81695aa3-db90eddd-e851e2fd-fa3f67b7,gradcam++
+False,660,802,Cardiomegaly,c916a50e-630218f0-c628575f-cc934d05-0bd132c1,gradcam++
+True,368,660,Cardiomegaly,ba94f81a-8d72105e-26b7d7ae-25fe27e1-5471c421,gradcam++
+True,802,802,Cardiomegaly,1e4846bf-7f6a2b89-abaaf773-5ac1cfd7-69a45d5b,gradcam++
+False,806,801,Cardiomegaly,0fd51f67-0826d798-7bb23d63-ce053f40-105e74c7,gradcam++
+True,660,802,Cardiomegaly,f1bb2d4f-ffe964a6-7ce402c5-7146c1d9-1307e424,gradcam++
+False,513,660,Cardiomegaly,d9e03094-bfd7e904-95421f37-424843bd-97c37e5b,gradcam++
+True,660,509,Cardiomegaly,66a49254-2811c7fc-56803247-c706ea00-db29b968,gradcam++
+True,514,660,Cardiomegaly,5328453e-ab0a0e61-f7685177-bd934712-c8a97032,gradcam++
+True,656,660,Cardiomegaly,4345a13a-fa59f51c-0e411b76-b812d76a-30897fab,gradcam++
+False,802,802,Cardiomegaly,b5461e06-4abee57e-c8ec8140-132feae4-6d2bfe16,gradcam++
+True,660,660,Cardiomegaly,b839be1d-b230705a-5c4da029-4322da42-68d9e120,gradcam++
+True,514,514,Cardiomegaly,b3b5ff71-ccfe4e04-79424aac-6a17007e-ae289918,gradcam++
+True,514,660,Cardiomegaly,7efb96ef-61b0d37b-252d01ec-52b55e60-c13af6fc,gradcam++
+True,514,656,Cardiomegaly,ccaa8fe6-bf0487af-8811b357-4016364f-b770a32f,gradcam++
+True,656,660,Cardiomegaly,d434e0c9-1db6e115-e6bc66c6-204f1beb-046bb45a,gradcam++
+True,656,510,Cardiomegaly,0e3afa9a-7defccc9-fc4346cd-fe19e6dd-8346e5a3,gradcam++
+False,368,514,Cardiomegaly,d6ac3a25-e0c149c0-90df12ef-2cdc3a03-87f5593e,gradcam++
+True,513,660,Cardiomegaly,7060a15e-3565f4fa-17e58bca-bb3e9584-99610825,gradcam++
+True,802,514,Cardiomegaly,2973c265-e2886c6f-5c673b1f-21a6b9e5-b2909ee0,gradcam++
+True,514,655,Cardiomegaly,4ceb8c45-a51f9b14-f6063ef6-de98a574-629e34a8,gradcam++
+True,660,660,Cardiomegaly,0d45389f-6b644445-3dc93406-edc87165-d4198e0e,gradcam++
+False,222,513,Cardiomegaly,b30ab6be-a02bf991-791c004d-96e52e29-e9f0a17c,gradcam++
+True,807,656,Cardiomegaly,d040517e-5974de9f-c5add2aa-47cfbd65-720114bc,gradcam++
+True,656,660,Cardiomegaly,ad909a67-53deb0ec-1742718f-dd649599-dcc56172,gradcam++
+True,367,660,Cardiomegaly,086b63d7-e1b86b2e-d142892e-20b8e313-ae420684,gradcam++
+True,660,656,Cardiomegaly,d82c1779-57055c9d-566b206a-074aa5da-a37e1694,gradcam++
+True,660,660,Cardiomegaly,6f62d9fc-7c29d249-811cdbcb-340c78e7-ab1f9281,gradcam++
+True,660,514,Cardiomegaly,24fd8cfc-f34c30db-4c869484-5a1dba70-4f6a3285,gradcam++
+True,509,513,Cardiomegaly,658633f7-ebb9708e-13ff5f68-2d207b4c-156b331e,gradcam++
+True,656,655,Cardiomegaly,96d50b53-a5275523-c837c4ca-c528635b-98460c2a,gradcam++
+True,509,660,Cardiomegaly,3a9a1e66-2d1d0ce1-e68ce462-dae0a8f1-4bb37c19,gradcam++
+True,660,660,Cardiomegaly,dd9bc5d3-5d2897da-ed826485-8f023814-c7032422,gradcam++
+True,509,660,Cardiomegaly,7c3685d8-32e86942-1a440f1c-89b6bffd-e2aa7177,gradcam++
+False,514,368,Cardiomegaly,386c43b2-22c26c8b-a586a2ad-0dbab8c5-392808bc,gradcam++
+True,660,802,Cardiomegaly,e300618b-1381d64b-83a650a0-840b8107-6b4af2df,gradcam++
+True,660,656,Cardiomegaly,8fcc88fc-b9bb0984-19e4a273-c4684585-0198394a,gradcam++
+True,660,660,Cardiomegaly,7ada88f1-3ef71bea-95248033-1ec6ce8a-247e82f8,gradcam++
+True,655,661,Cardiomegaly,3ebcffa5-d2ebf5eb-6a28c354-8c89e0b0-8a4c4590,gradcam++
+True,660,514,Cardiomegaly,6553da07-32128b80-397d81d9-1a229ab1-2dfdd971,gradcam++
+True,367,509,Cardiomegaly,96e461ef-79931782-abb83a85-03ebedd1-253dbd0b,gradcam++
+True,660,660,Cardiomegaly,07166df6-a19907c2-1ecc59ea-ce5c0462-d0a91ee1,gradcam++
+True,514,655,Cardiomegaly,dcef22da-1ae3ffa0-0cc9a119-c388bef8-d111105f,gradcam++
+True,514,660,Cardiomegaly,e98cf097-435f26e6-966a62cf-668a3099-9d6cd3d9,gradcam++
+True,514,656,Cardiomegaly,fcf165c4-135bcbc6-d3b92c1a-da135e1d-701deb5f,gradcam++
+False,509,802,Cardiomegaly,c3572505-44db7b46-7da89497-c31f017a-b2c09a0a,gradcam++
+True,660,660,Cardiomegaly,df269c76-bea2057a-cd2f5203-3e691a89-7554bb6f,gradcam++
+False,514,363,Cardiomegaly,53f592ec-e5792923-1f4b802f-aa70b570-b83efa68,gradcam++
+True,514,660,Cardiomegaly,3a293086-e3381e6e-019e14e5-1a30e8c5-ce3f6f98,gradcam++
+True,660,660,Cardiomegaly,0acb4fb6-a7f9f157-cbbc41ec-72c7f9a5-2d957c9c,gradcam++
+True,660,660,Cardiomegaly,0777b109-0a4dec44-ac85f06a-1d4fe461-4d8598ff,gradcam++
+True,509,514,Cardiomegaly,9db7a91e-00fc23d4-e15ec562-3ab49f1e-b5ae04d2,gradcam++
+False,509,802,Cardiomegaly,cd0a7ae0-bb2e258c-73373501-6147bfd0-adac3175,gradcam++
+True,513,656,Cardiomegaly,a04b6cbe-fe28d8da-7380e8ca-14ebb18f-ad6aea64,gradcam++
+True,655,660,Cardiomegaly,b928f859-02c73976-9e982f96-907454c5-86d51f54,gradcam++
+True,656,660,Cardiomegaly,9458f012-95a23322-5803aaa5-f2166111-2d12432b,gradcam++
+True,514,514,Cardiomegaly,5b347d8a-e1bc4945-19db07d2-481125ac-7def097d,gradcam++
+True,513,510,Cardiomegaly,5ad22075-96b35d29-92e251cf-5edd6f83-f35855cb,gradcam++
+True,660,656,Cardiomegaly,4c18cfff-5abf4161-d6fea1e9-66d87145-9e49bdca,gradcam++
+True,660,660,Cardiomegaly,75c99658-e14d48a5-690d5d24-3fa6c1f9-aeef1df4,gradcam++
+True,656,660,Cardiomegaly,d4f1197d-3d32a329-8b1b65b6-0440f1f8-181d4ede,gradcam++
+True,660,509,Cardiomegaly,df6baada-c4d45bcf-c556f7d5-4c6b9c2a-67f2d2d9,gradcam++
+True,660,660,Cardiomegaly,b934729a-068f4a89-c6676783-018d97f9-a018a857,gradcam++
+False,660,802,Cardiomegaly,fd88d33e-6976a635-e16f3e60-f848171f-21fa38ba,gradcam++
+True,656,660,Cardiomegaly,1a90a273-cb66903d-303585b1-e540bd7b-e8ce5372,gradcam++
+True,660,802,Cardiomegaly,60931b23-f84cc0e8-899a83f4-2b4d5954-5cc13488,gradcam++
+True,660,656,Cardiomegaly,f9c026bc-7464542c-2db04bc6-0af2eeb3-b4e71a62,gradcam++
+False,509,510,Cardiomegaly,3082f9fe-d744bea6-588bc44c-adafa996-79ab741c,gradcam++
+True,509,656,Cardiomegaly,90cc8b7a-b89b1a56-6e5b0c04-409b50c7-30092d26,gradcam++
+True,656,655,Cardiomegaly,8052185e-53961451-a2c11dcb-32f3cc08-9f573385,gradcam++
+False,655,510,Cardiomegaly,12328f1e-1364e779-7f1cb050-ae4070ad-20777ced,gradcam++
+True,660,660,Cardiomegaly,359072af-652d9a5f-fcc377c8-45f69102-8f1b9faa,gradcam++
+True,656,656,Cardiomegaly,5a0dd93b-2386ab0f-4e9e1074-91f0bb30-9fa7b53a,gradcam++
+True,660,802,Cardiomegaly,08949a1d-16fabbe0-41e87643-b6406e55-774f7d21,gradcam++
+False,509,367,Cardiomegaly,ec6866dc-7fc8d47a-c46ac041-97ae00e1-c6b6d722,gradcam++
+True,802,806,Cardiomegaly,ec5cec23-ef703fa8-0ba19077-582e6694-041398fa,gradcam++
+True,655,656,Cardiomegaly,4d6a449d-7a71a2ee-68a39b99-8ced7ad5-f2cee865,gradcam++
+True,656,514,Cardiomegaly,80e284b5-fdeeb82c-1b888818-0881ac87-eeaaeffa,gradcam++
+True,513,514,Cardiomegaly,f7eeccf2-e96d337b-2bade0df-bf4d9e10-ff9937d8,gradcam++
+True,655,660,Cardiomegaly,ae13fe1c-9fd244b3-1523fa5a-7d594f1a-a6c0a8db,gradcam++
+True,660,655,Cardiomegaly,76e6da4a-dc9b7914-451b56c9-58cda7dc-b3f7ea79,gradcam++
+True,660,801,Cardiomegaly,b727b7ca-a6953642-ee362394-2fd91706-e456ab9b,gradcam++
+True,655,656,Cardiomegaly,2acb989b-efb32faa-cb33ff69-f2a7b3c1-3385784b,gradcam++
+True,655,514,Cardiomegaly,129b6266-207fbeef-4650a855-021f9ae2-37df3384,gradcam++
+True,656,660,Cardiomegaly,1b79ef38-533a87bc-4053c5b0-ec31d167-1380f412,gradcam++
+True,656,660,Cardiomegaly,98256827-2fcac897-fd112ad4-4464362f-0638485b,gradcam++
+True,660,656,Cardiomegaly,cbf8cec8-0a086623-f9987190-c834be56-28721dce,gradcam++
+True,655,656,Cardiomegaly,e1066864-bfd790e9-f47f3cb3-4570c3b8-cac6adbc,gradcam++
+False,514,655,Cardiomegaly,9431f1f6-81be3ca7-f740c79e-2232e3d7-b6578fad,gradcam++
+True,660,656,Cardiomegaly,9de88d76-9ed65a1b-eff923c4-7f5cc1c8-38b288c0,gradcam++
+True,655,514,Cardiomegaly,e3eaa0aa-3256a972-d29e12fe-0a86b994-d96449bb,gradcam++
+True,802,514,Cardiomegaly,c3e55b6d-33eedd4a-f2f5c68b-660385a0-52219069,gradcam++
+True,510,656,Cardiomegaly,bde3562d-d6d1febe-16aa532f-831a6e2c-4a0abeab,gradcam++
+False,514,802,Cardiomegaly,94410940-ca94eb8a-6a04880a-c52e19cc-c113d49a,gradcam++
+False,221,514,Cardiomegaly,fb185271-7ce7ab20-7414d16c-4a12ded1-c7c0128f,gradcam++
+True,660,660,Cardiomegaly,681b6427-707e9421-3b0d129b-5bedec2a-708104d7,gradcam++
+True,660,660,Cardiomegaly,32d3cece-1c32c721-907244d8-485d7d20-822c7916,gradcam++
+True,513,660,Cardiomegaly,6d45dd4f-24fd3de4-e5832153-0a3d41db-e7da3db5,gradcam++
+True,514,656,Cardiomegaly,cd8b4dea-56e42c6d-7874f1c3-95dcc69e-f610da28,gradcam++
+True,655,514,Cardiomegaly,2dffd53c-7d62f03c-feb1bd80-04c9e670-9f70bc26,gradcam++
+True,660,660,Cardiomegaly,2e30685e-7cfe133a-1ed49df1-901bf3de-7e1d614a,gradcam++
+True,660,656,Cardiomegaly,2e5c5550-2fd1596f-a4bdc0ac-efca7b4b-0adbdc1e,gradcam++
+True,514,660,Cardiomegaly,bf3710af-3e30ee7e-941902f4-55df63c8-92d515fe,gradcam++
+True,655,656,Cardiomegaly,cf1d2168-985a19a3-b115d321-c543b65c-66b1170c,gradcam++
+True,656,655,Cardiomegaly,c931431e-d13b62c8-4628a10b-50763b40-16b9ff54,gradcam++
+True,660,656,Cardiomegaly,60470c1a-aa7a2870-e43537bc-2b70a611-209cbfa3,gradcam++
+True,656,656,Cardiomegaly,9f8ba009-152df307-0384f800-4a63b469-c3ce2cf6,gradcam++
+True,656,806,Cardiomegaly,6a771554-a9e45c87-afb06934-3122549a-263ee668,gradcam++
+True,660,514,Cardiomegaly,bac95ad7-607cb8a8-770c8e97-8758f5e1-c29505cc,gradcam++
+True,660,656,Cardiomegaly,2a3db404-a9dec2f8-7f5a717d-f592d10c-255c35dd,gradcam++
+False,368,655,Cardiomegaly,b7b2f27c-e983263d-f93e154b-c540ff4e-ff5aaf86,gradcam++
+True,509,514,Cardiomegaly,d3ebb2ed-16398266-f190a39f-23e275d6-0a772771,gradcam++
+True,660,656,Cardiomegaly,ec9d67c8-de9179a3-6fc5b2a0-437f68a3-b5f646aa,gradcam++
+True,514,656,Cardiomegaly,910531d6-1754b585-fec9d0f8-768e431c-7c3a918f,gradcam++
+True,514,514,Cardiomegaly,bb3a6282-34b489d8-43dc105c-095eed64-8427fd29,gradcam++
+True,514,513,Cardiomegaly,e8a33b72-e90fe459-a7dcc250-12c40585-d607888e,gradcam++
+True,514,513,Cardiomegaly,da46a948-3c70d026-5cbd59f6-65a4f52b-ebc2cd4b,gradcam++
+True,806,660,Cardiomegaly,0b812bc9-9879bf29-0f97b8a8-8b6e3f4f-1c48e0d8,gradcam++
+False,660,801,Cardiomegaly,0e38ae69-93415c3c-2ba661d0-97c9673a-c419e742,gradcam++
+False,660,806,Cardiomegaly,982f736c-cd8b7ee8-206d70ad-2542305a-d2c0bdef,gradcam++
+True,660,660,Cardiomegaly,beb02a2b-e92e3880-e05908ae-555db55c-9bb4c67f,gradcam++
+True,801,660,Cardiomegaly,520830ad-5d7bb5ab-b2616348-d24ee182-54168bfa,gradcam++
+False,660,801,Cardiomegaly,707507c3-5af93037-1e0cd863-9f8b0595-b71be5e8,gradcam++
+False,660,802,Cardiomegaly,b5497d9f-6ae1606f-566c468f-b16e5b90-560f99f5,gradcam++
+True,656,801,Cardiomegaly,1bdfa7e1-9e58eebc-de36dba0-4e7937e8-ccf63d43,gradcam++
+True,660,656,Cardiomegaly,a0b91576-0619f51e-d249bf82-56ccd03a-17bb6422,gradcam++
+True,656,514,Cardiomegaly,31179f4d-bb3caec9-5fc4b4a6-501fa74e-9951717f,gradcam++
+True,656,802,Cardiomegaly,40451296-eb3ede75-1e61c1d0-f131ec5a-38adf9aa,gradcam++
+False,222,0,Cardiomegaly,6dc5a727-5ff20d79-e452e511-355c6c35-251a9c1a,gradcam++
+True,363,510,Cardiomegaly,053c1040-13e342e7-8de69406-0e93dc25-0dbf2221,gradcam++
+True,655,660,Cardiomegaly,ad4bb873-0d1d3baa-aea181f2-78936a6d-493cdef1,gradcam++
+True,514,660,Cardiomegaly,147ce605-21239109-3a3ba634-45292ba2-af1c2a16,gradcam++
+True,513,510,Cardiomegaly,5c8b3f01-9aad13aa-39bae387-4ae9670d-0bf7b9a3,gradcam++
+True,656,656,Cardiomegaly,ce71da94-9e260c8b-d1bf1c95-cb37e76b-453f596b,gradcam++
+False,655,801,Cardiomegaly,9b8c3f1d-e76169cc-b1b714ec-bf6e3262-206a9cf7,gradcam++
+True,655,802,Cardiomegaly,121a8e80-3868f6e0-c44ac38e-ed1da7f0-3e00d490,gradcam++
+True,514,660,Cardiomegaly,ef469c0b-4b36626c-0d3889ff-2021b2ca-6f4c678a,gradcam++
+False,514,802,Cardiomegaly,2ab00f87-5b216d58-176bbae5-7f437930-8d892823,gradcam++
+True,509,514,Cardiomegaly,80187c10-99d6068b-c68d14fb-2a3eaecd-81d71d97,gradcam++
+True,660,660,Cardiomegaly,3ccccb35-bef8fd61-3d1e071e-36a34858-3e88aa75,gradcam++
+False,368,513,Cardiomegaly,a412d758-94c896dd-027ef934-15f25400-89b96a07,gradcam++
+True,510,656,Cardiomegaly,c6bd8a0d-b774c404-03fef54e-a7f69230-ff3b76d2,gradcam++
+True,660,660,Cardiomegaly,158b30e7-e5b660eb-181aa2c8-6e0d99ce-a55e81f9,gradcam++
+True,660,514,Cardiomegaly,4ba81d1a-577422ee-6986e282-ca4a7ee5-146fe130,gradcam++
+True,660,660,Cardiomegaly,3c08bf6a-7fba2bc1-492c9d86-b5d805a5-9dfb93b0,gradcam++
+True,655,656,Cardiomegaly,77b5790c-cddb5d72-13b7f587-284b9c43-abb73dec,gradcam++
+True,656,655,Cardiomegaly,43492788-6a3d4a88-3dc81220-28ae4dd6-e4721377,gradcam++
+True,655,655,Cardiomegaly,63169584-285d5f9a-c39a1e3f-8828c1e5-10324bbd,gradcam++
+True,660,656,Cardiomegaly,0cbe33f3-ab95a668-1df04e67-f3848286-507cad9f,gradcam++
+True,660,802,Cardiomegaly,07da5961-a75d9712-82cb5e5c-aac56f70-45fc800f,gradcam++
+True,514,656,Cardiomegaly,58fc4b5f-d187a40e-84d2f6cd-138e15b9-e12958b3,gradcam++
+False,656,806,Cardiomegaly,3bfe3f16-6f5c6ebc-fd3c112b-7484159e-19e559a5,gradcam++
+False,222,655,Cardiomegaly,1003caa0-37f1c4ba-f06c80f0-3c4f48de-a9c97996,gradcam++
+True,802,802,Cardiomegaly,ef74b229-dc58a9f5-fde227f8-143ef2a2-52e78aa3,gradcam++
+True,655,660,Cardiomegaly,67836d02-508d4cd5-b90ac05a-c563df56-4ae0cfc2,gradcam++
+True,510,656,Cardiomegaly,74fc5838-f39cb93c-8365d0ec-3fe643c5-facaa581,gradcam++
+False,953,953,Pleural Effusion,80ffc9e7-ce517bd3-b1160380-8fe5e817-55d58e74,gradcam++
+False,514,656,Pleural Effusion,e41ae230-550023fa-242f79bf-02394236-6b64ef7e,gradcam++
+False,660,656,Pleural Effusion,328ba500-b50b6a53-6d4206c4-4313f154-df68c05a,gradcam++
+False,656,509,Pleural Effusion,9eb7fe2f-66b88db6-2d052606-825fdaa9-c8877924,gradcam++
+False,801,509,Pleural Effusion,832d435d-e2416259-562fac2e-b6aa0ff6-cf2c84d2,gradcam++
+False,514,367,Pleural Effusion,b561c00b-167831b2-8bdf0c87-35642777-7d912fe3,gradcam++
+False,510,509,Pleural Effusion,1188cc0f-31f4ef0d-1ba865be-ed22c8d1-cc992ce2,gradcam++
+False,509,514,Pleural Effusion,51d0fd2d-11686a81-ced7d099-94ba3183-f1b729d8,gradcam++
+False,660,655,Pleural Effusion,38f19e73-a0cb24bc-d06646a7-0d14f0d3-cbfb3632,gradcam++
+False,802,363,Pleural Effusion,79b828d1-372da5f1-50a1b1c4-c123cc76-48e27c7b,gradcam++
+False,802,368,Pleural Effusion,60cef032-0bf38c61-dfae4717-e031b83c-8e1b2703,gradcam++
+False,509,509,Pleural Effusion,580905e5-056504d8-1fa1ea1b-b3c358d2-79f5bf31,gradcam++
+False,655,363,Pleural Effusion,56ecabed-e3e052bb-180ed50b-89653be3-c5cacb88,gradcam++
+False,514,510,Pleural Effusion,55d87aa9-1d9c3f80-7231110d-7c64dc65-16897db1,gradcam++
+False,222,363,Pleural Effusion,4219237c-1c545724-5f011317-48584b9e-e810c748,gradcam++
+False,510,514,Pleural Effusion,ab628877-d277d684-41f8a78e-afb49b10-7778550b,gradcam++
+False,655,660,Pleural Effusion,77e2245b-199ebe11-fe2f111c-0081624e-fad762f1,gradcam++
+False,656,802,Pleural Effusion,f53a4580-d73e7bcd-dc79e25c-39ebe66a-9335a8ba,gradcam++
+False,656,510,Pleural Effusion,50870f7e-7d617de8-011ad5f1-cec7fc1c-3e0448b7,gradcam++
+False,509,509,Pleural Effusion,333c5c00-aa594e08-957fbc0c-cfdfc1df-a162900f,gradcam++
+False,655,367,Pleural Effusion,5bd283f0-d8c8d8f1-03dfafcf-0c94077e-405024ff,gradcam++
+False,514,368,Pleural Effusion,6a5566ed-631fbd14-311208ce-6dee150f-2d609d50,gradcam++
+False,660,660,Pleural Effusion,bbf9418c-a53aaa29-1cc2186e-d92dc6c9-a6b3494d,gradcam++
+False,655,656,Pleural Effusion,935536e5-3fca908d-346b4b98-7eb74713-9d19a99e,gradcam++
+False,513,367,Pleural Effusion,ffc73da5-5e52ccfd-028a2711-ae2702af-ad87c455,gradcam++
+False,514,655,Pleural Effusion,8dd49caf-bd6edb4e-d86e6cf4-4494dfe0-f193c029,gradcam++
+False,655,513,Pleural Effusion,fbdf480e-92e2b8a0-15ac66fc-637b18bb-3c255a5a,gradcam++
+False,656,367,Pleural Effusion,e09b64e7-f9c0064a-bb2f3a85-b827a1e8-e912e570,gradcam++
+False,513,514,Pleural Effusion,c3b450df-cfeea0c7-b048fd7e-eaa66b17-21c63720,gradcam++
+False,656,513,Pleural Effusion,d34ccd25-5f74f99b-7f5d3f62-b576b5b3-6503be53,gradcam++
+False,660,802,Pleural Effusion,e863f768-f341c2c2-4765043c-d5b6fb23-b796393f,gradcam++
+False,367,660,Pleural Effusion,37c4b068-a75c3e99-66c18395-6696e401-092c6ac5,gradcam++
+False,660,802,Pleural Effusion,fac8fa86-089bbe61-340b4ca3-8733287d-74e6ca6d,gradcam++
+False,655,660,Pleural Effusion,7fc5c2ab-96a306b3-32631529-1fb74ed6-f50bfb8d,gradcam++
+True,802,802,Pleural Effusion,2f3482c6-b707eff7-d9717b69-88539049-63842c02,gradcam++
+False,513,660,Pleural Effusion,5b5ebaa5-c9584c14-52e55e0e-5f336063-6f652c12,gradcam++
+False,655,509,Pleural Effusion,27ea000f-385feb19-77a74176-a113a0bb-9ddd4e14,gradcam++
+False,510,367,Pleural Effusion,91a55bbe-a8912538-e0a3f2dd-b9a12a3c-223cf15e,gradcam++
+False,656,660,Pleural Effusion,992c1bdb-d3221de5-28d1f2aa-3ab002db-abf75b4e,gradcam++
+False,656,660,Pleural Effusion,fdfadcd5-c218ff16-ae99c40c-5bd67446-ad334379,gradcam++
+False,656,656,Pleural Effusion,8a61bf9b-c99c7baf-91d94308-cf9be90c-106d0d60,gradcam++
+False,513,660,Pleural Effusion,ee3d1e48-cfeda6b1-8e90ded8-bbda21db-84a79b9e,gradcam++
+False,656,802,Pleural Effusion,b6a05d45-3d45e6ec-cd866188-99f403c8-20039a24,gradcam++
+False,807,656,Pleural Effusion,052da71b-410e137b-d26f94ed-5700cb9f-748d9216,gradcam++
+False,656,802,Pleural Effusion,6ed0ed45-7885c029-97d63d4d-a631ba25-f9687814,gradcam++
+False,655,368,Pleural Effusion,b4907727-1b7aa49f-9c7f1b6c-bc214c71-8353528b,gradcam++
+False,656,660,Pleural Effusion,436002e4-67fb70fd-3d1d1d3f-efa8b2ed-3908cbb9,gradcam++
+False,509,806,Pleural Effusion,4da27d18-45533a5c-9474d90f-1787ae00-827e523c,gradcam++
+False,806,367,Pleural Effusion,a38dabe4-ab617bed-e49edcd6-0f0a722f-2dc71e68,gradcam++
+False,509,660,Pleural Effusion,27e1a41d-16c8a778-65b71026-6d1b97de-b0690c53,gradcam++
+False,221,660,Pleural Effusion,194cef54-52f89eae-29644e40-f27af70b-b8e7870d,gradcam++
+False,656,656,Pleural Effusion,505da017-8cd0690d-58cc2030-28bed9c7-7ab6ea8e,gradcam++
+False,655,807,Pleural Effusion,e8fed5e6-12612038-1c8fd25e-d366fbdb-9d2e7603,gradcam++
+False,514,514,Pleural Effusion,cbb60c69-fbab1e15-eb3eaed1-29c200b0-8ba28a04,gradcam++
+False,660,807,Pleural Effusion,0d389529-b59696be-879553cc-dc608d9c-2d949a6a,gradcam++
+False,656,368,Pleural Effusion,70e0f427-beb4a039-b0bde7ec-f1d00047-1bcd23f5,gradcam++
+False,656,806,Pleural Effusion,3d7d9558-f9484e7d-22e6d801-77ad8f06-7f32c795,gradcam++
+False,363,221,Pleural Effusion,86b40537-938f24aa-b86fb246-618b68ea-b377c4fe,gradcam++
+False,655,806,Pleural Effusion,492bc896-d86c9fce-e56a3963-92950b35-81330cca,gradcam++
+False,656,655,Pleural Effusion,8a95917e-806e80b9-ed7112d2-4afc21be-b3619df8,gradcam++
+False,660,514,Pleural Effusion,deed11c6-cebef128-ecacfb52-58dd441f-bd52bc72,gradcam++
+False,513,660,Pleural Effusion,f80a5cc8-5646ea1c-9b7e30d3-63f030d4-9c00fbe9,gradcam++
+False,514,806,Pleural Effusion,51e8fcf6-7785ecbb-663ecdc6-41788714-3a5d9ad8,gradcam++
+False,806,368,Pleural Effusion,2f4689ed-fd62d911-190c6ed8-b8043b71-a89c9ad7,gradcam++
+False,513,514,Pleural Effusion,c732c42c-fc8ed1ae-f07dacb9-e8bb5a60-24f3f8b2,gradcam++
+False,655,660,Pleural Effusion,5765d110-80313b47-6cbb131f-3153bac7-6544e3f3,gradcam++
+True,806,802,Pleural Effusion,ad08ee6f-3c1b04b7-2fffc4c7-03dba6ac-0a0fe4c7,gradcam++
+False,509,368,Pleural Effusion,72e6d1f6-effe7fb2-309eeeee-67dec819-7e7434bc,gradcam++
+False,217,660,Pleural Effusion,4fd1d340-4078b7f8-8d132a8f-c0e169f1-64d0e347,gradcam++
+False,510,801,Pleural Effusion,a09f9135-4d63aeb6-a88c010d-d61b12ae-cd6797dc,gradcam++
+False,806,513,Pleural Effusion,2a284bca-acf9ee45-a9292d76-b5c50e90-2cb640b3,gradcam++
+False,656,367,Pleural Effusion,b3f5568c-e2c42410-e377891f-a821711a-bcb1cec4,gradcam++
+False,514,802,Pleural Effusion,5908ccbc-e6bad231-ee8386b6-ef6042bd-cff76a13,gradcam++
+False,802,656,Pleural Effusion,817736e8-36ec34dc-18fed892-1127fe67-96f5531e,gradcam++
+False,802,802,Pleural Effusion,7a38e94c-6cdc8ac4-12d8703e-1d89c1c3-873c7cac,gradcam++
+False,655,656,Pleural Effusion,4fef7e52-7b2c5e01-dd976d79-53644ec6-1d31e71a,gradcam++
+False,656,510,Pleural Effusion,86624ea2-299ae9dc-a22f9f00-1c359ba4-723c5f03,gradcam++
+False,509,806,Pleural Effusion,3056f052-ff3c284f-0d46f60a-7d4ee6af-498142fb,gradcam++
+False,510,513,Pleural Effusion,7e326475-8ca205ef-d32261fa-c0ba2363-ceff584f,gradcam++
+False,656,656,Pleural Effusion,c3ac7675-b4f2133b-12f7643e-d57d4f7f-e37c7549,gradcam++
+False,660,655,Pleural Effusion,3ee8db1f-544f8477-6f092dd6-5795aac8-9ad3ea1c,gradcam++
+False,660,514,Pleural Effusion,83d3124d-db753bee-0db4d419-22d52f98-9708a1e3,gradcam++
+False,656,368,Pleural Effusion,0ad6f794-6a746e76-d6097465-d2657a39-c1b7115e,gradcam++
+False,802,514,Pleural Effusion,ee9e9657-6fdf4af7-ca7f0d4b-54e4fac8-b8a05c87,gradcam++
+False,656,802,Pleural Effusion,faeda333-95e2b2d8-12cd2a7e-2a931faa-6de2fb1b,gradcam++
+False,806,514,Pleural Effusion,557fa686-f26e3220-72610a05-1d90c22e-cb768300,gradcam++
+False,221,514,Pleural Effusion,e637d00d-10d4845c-849a412a-1d30eb42-dd3a76b8,gradcam++
+False,660,514,Pleural Effusion,77e6f495-eb7796f7-d18abbc3-35c38aca-f8c2d9c5,gradcam++
+False,655,660,Pleural Effusion,9f04fd45-f2f1c0e8-97c88f43-553d1d00-63cc4faf,gradcam++
+False,656,656,Pleural Effusion,c86aae10-6e470e51-c04d64e1-1fbfa365-07eb1c4a,gradcam++
+False,660,802,Pleural Effusion,9c1eb3d8-17f51762-c98aca0e-4a59999f-d821bbc3,gradcam++
+False,656,802,Pleural Effusion,75368533-8ad9705b-18ef3a17-78ce228b-a07d9723,gradcam++
+False,514,656,Pleural Effusion,9b91c159-75689d20-1dbe2c9f-d196288e-5044c2e3,gradcam++
+False,514,368,Pleural Effusion,9a5053b5-c84cfcec-6077d460-ad71eff5-842cdbc3,gradcam++
+False,655,367,Pleural Effusion,f3e566ce-90fda498-fd07c1b6-a8f994eb-b5fa906f,gradcam++
+False,802,217,Pleural Effusion,7c3efd6f-063b1642-59f0294d-e8a7a415-46283fe2,gradcam++
+False,509,367,Pleural Effusion,a91c5caa-c96e6796-6c46fb2b-465dffbd-76fc2b2a,gradcam++
+False,801,656,Pleural Effusion,1a32c6c5-2a74fe59-7dc29e11-5a411521-419c0ce5,gradcam++
+False,363,510,Pleural Effusion,9f377011-8d5f4819-c0f09d7c-74e0af50-b6246863,gradcam++
+False,655,509,Pleural Effusion,2cc552b6-cae71723-ecf0f8b0-75fadb80-6882c327,gradcam++
+False,802,802,Pleural Effusion,8989435b-ddd11cec-cb981914-cfc6f0e2-35ce3c9b,gradcam++
+False,806,221,Pleural Effusion,1d50f66a-a87e4147-63dfe808-69a88577-6d646539,gradcam++
+False,801,660,Pleural Effusion,159d36f8-c2ae9f7f-416e06b6-bdf613cf-3582e150,gradcam++
+False,509,802,Pleural Effusion,1a513df6-43f7051b-7ff2371d-579ebc85-8478d89f,gradcam++
+False,510,802,Pleural Effusion,a06e38d3-77010440-23a69fde-5a8db3f3-5c9c56e0,gradcam++
+False,514,660,Pleural Effusion,d4dbd1e1-6a03de12-633838c9-dfb6dc30-cc884598,gradcam++
+False,656,514,Pleural Effusion,048f79f2-1db4e2d5-0aa35a70-eead7c0c-8ea3e006,gradcam++
+False,655,655,Pleural Effusion,46958103-8c4f4615-0e8e254b-46546a1f-b464c31d,gradcam++
+False,655,802,Pleural Effusion,a7387551-aa884ef8-05d1feb7-c35373d0-ffcc6a86,gradcam++
+False,802,367,Pleural Effusion,a700000b-e611669d-c601980a-063f3eb2-c71145f1,gradcam++
+False,660,514,Pleural Effusion,c34c4adf-dd7e0f9d-258532e7-e1793e05-a0c2c09e,gradcam++
+False,367,217,Pleural Effusion,2fb2199f-95daa1ff-1ed663d8-71462d54-a490ee40,gradcam++
+False,806,367,Pleural Effusion,506de422-a6e83f15-affd3fec-9522a635-ffe1c665,gradcam++
+False,514,660,Pleural Effusion,4fe2791a-5a6ddb9b-d73fb7f6-bdb8d5ad-01ab723d,gradcam++
+False,367,509,Pleural Effusion,db2183b9-081b00f2-49401086-9ebd8181-75bc4e33,gradcam++
+False,660,806,Pleural Effusion,5d5cdf49-11179879-ede6a115-2c5794d1-96421652,gradcam++
+False,660,514,Pleural Effusion,434385a0-c9d2fce1-37bbdc51-56e6d16e-e4c9adf3,gradcam++
+False,660,510,Pleural Effusion,7013a710-7fdfeefe-b1e46775-c9c669ac-4e36fe35,gradcam++
+False,509,509,Pleural Effusion,8530e36d-403e34f5-74095e5f-f6e700eb-1070d5cd,gradcam++
+False,655,802,Pleural Effusion,fe8b9af5-f862f1a2-f71289ac-681589c8-2d41dba1,gradcam++
+False,802,806,Pleural Effusion,3a0942b1-2e0879dd-f30f3763-474b8fbe-26d4201c,gradcam++
+False,802,510,Pleural Effusion,de120cea-e0ab6731-50a30531-405aef50-83f08cd3,gradcam++
+False,509,509,Pleural Effusion,883aaa82-d0a0677d-eb90347e-0eee8d8e-fa71d2fe,gradcam++
+True,807,801,Pleural Effusion,de97ffaa-934de8e4-199fd585-54516d7c-d40dcf52,gradcam++
+False,509,513,Pleural Effusion,51848c37-b0fefa42-7b2caca5-b9c80175-660a4335,gradcam++
+False,802,368,Pleural Effusion,aa8fe588-1d877461-79fc8e62-d037f46d-73ab1c57,gradcam++
+False,655,806,Pleural Effusion,748c1f4c-97a9a0ba-96d9f438-65e93b76-3f969256,gradcam++
+False,655,367,Pleural Effusion,be544f72-801148f5-31948d7f-f9e4b147-2dccf74f,gradcam++
+False,802,363,Pleural Effusion,649eeead-5a26ccf9-a23309ed-6c980d3e-9dfd2a6c,gradcam++
+False,655,660,Pleural Effusion,d7e75b0a-dcb5cecc-c9c55108-9f258969-09f7810e,gradcam++
+False,221,656,Pleural Effusion,d812f67f-98dd6079-af59aad2-2a924ee0-7a0fde16,gradcam++
+False,660,801,Pleural Effusion,d6ce7de3-0ab097b2-a18bbd7f-b45a5451-c2e1d9f0,gradcam++
+False,656,367,Pleural Effusion,7d0b1ed8-379f1f55-f3cbb04c-6ceac177-f7f862ec,gradcam++
+False,514,660,Pleural Effusion,5d8c4675-21a154ce-0ce5421c-bb52e9c4-8d30742c,gradcam++
+False,656,801,Pleural Effusion,fbc3f589-d25fc598-58cc4351-1ca0db4c-e0536342,gradcam++
+False,514,367,Pleural Effusion,8ee062b4-0bddd9e8-00253559-62ce41d3-9dad4f86,gradcam++
+False,660,514,Pleural Effusion,4a951ac8-85e9bf0e-4f818c84-a7782e62-e8288040,gradcam++
+False,656,367,Pleural Effusion,3b1c6b5e-d1dc4166-3c487509-5be55b33-a5a39d81,gradcam++
+False,509,801,Pleural Effusion,f17854e4-a94c9f4b-928df367-2a04b3bd-d847208b,gradcam++
+False,509,221,Pleural Effusion,af91f936-9d775f47-d596cd42-9b6d3e37-b443f9fe,gradcam++
+False,368,656,Pleural Effusion,fef93bc0-94e07c7c-d1c15dbf-cd381f4c-3fb0bd78,gradcam++
+False,510,509,Pleural Effusion,48033bc1-7fef24ac-7c1d5c10-5f8b87cf-f2ca23ce,gradcam++
+False,660,801,Pleural Effusion,98a030d3-3ec4f840-ab0d8d37-f74eadb6-699f0195,gradcam++
+False,514,367,Pleural Effusion,b348a034-88545f14-e508d889-a8b42086-def03671,gradcam++
+False,660,509,Pleural Effusion,b822c374-90241a2b-6e3a1733-9d7b51de-120d350b,gradcam++
+False,660,509,Pleural Effusion,45fc5f4e-3443bfe2-3ce38636-1868173b-d426498e,gradcam++
+False,514,806,Pleural Effusion,69c86d86-fa451639-b4897f60-7ce0d7d8-6b1b3187,gradcam++
+False,660,656,Pleural Effusion,25d51a87-02363492-760950e1-fa6468d4-af465bb6,gradcam++
+False,655,660,Pleural Effusion,f214e3d8-00d5e538-62592a72-37cf2660-0ec426a1,gradcam++
+False,656,367,Pleural Effusion,21fdaf74-f7aada03-ce320f31-81b095cb-5dc9c718,gradcam++
+False,660,509,Pleural Effusion,591c9168-037322ca-c592ab3d-e0b9cb79-55bafff9,gradcam++
+False,660,802,Pleural Effusion,715ecf46-a6fb7c45-99a64f78-20a698a4-dce8a350,gradcam++
+False,656,363,Pleural Effusion,68710c1c-c25658b5-17ec54e1-6038ff18-c2cd7f78,gradcam++
+False,655,655,Pleural Effusion,2a430c28-1642a13d-81978d8c-6a6a9987-1402b682,gradcam++
+False,660,660,Pleural Effusion,5c0071b1-f1933578-7f29609d-0076b913-33268a4a,gradcam++
+False,655,655,Pleural Effusion,c3e318c3-a1b0bed0-432549f2-e94a1083-e370e103,gradcam++
+False,660,802,Pleural Effusion,4e79b006-a68c1e38-5a78032f-70467b5a-022d96cd,gradcam++
+False,510,660,Pleural Effusion,2a228651-2870f314-fefeab6f-6e482f6b-3cf83056,gradcam++
+False,660,367,Pleural Effusion,46cb9280-31f8d5b4-de0261e5-bee0243a-5ac4d38b,gradcam++
+False,514,802,Pleural Effusion,8c9f9878-cdf131fc-776baece-6baeb337-8c4c2b2a,gradcam++
+False,802,660,Pleural Effusion,3833d038-a8b6d9b5-0e229665-8b0e094e-23173fe8,gradcam++
+False,655,807,Pleural Effusion,78ecf960-6999adea-ce3b550c-e1c49374-43195b98,gradcam++
+False,363,363,Pleural Effusion,3b787815-4afdf776-8f3aef25-3826f668-834068c5,gradcam++
+False,514,802,Pleural Effusion,208e35d4-9db3af3f-2a30c593-d67fbfa1-1f7823b0,gradcam++
+False,806,656,Pleural Effusion,6cdec289-91db350b-e97bfda1-c66e7e87-777ff5e7,gradcam++
+False,660,514,Pleural Effusion,568520e6-85fe21f7-42a8a689-e41727dc-ad301dce,gradcam++
+False,510,660,Pleural Effusion,a6c52f01-34a7d3e3-2a99de86-82d9a4b5-e07086f7,gradcam++
+False,509,656,Pleural Effusion,6d5d81f0-24db4698-0b10ede2-80628bfa-6c5de5f8,gradcam++
+False,660,801,Pleural Effusion,0d34fcba-7a1a299b-7c769c34-f6134118-15425702,gradcam++
+False,660,802,Pleural Effusion,58faeda6-ac72ab8d-5ecf67e5-445585c3-5fb602b5,gradcam++
+False,802,802,Pleural Effusion,b79f71bd-14083fd9-feb338e8-947d1b15-4b1767b9,gradcam++
+False,656,514,Pleural Effusion,a092e3c8-a04b85f4-f502f092-b1dd9f91-be5a6f31,gradcam++
+False,656,510,Pleural Effusion,f254c54e-ffbcc96b-01adc656-4bdfda9d-78a71665,gradcam++
+False,656,802,Pleural Effusion,5ab28963-01526e05-88841e02-e6dc110f-8742c925,gradcam++
+False,656,656,Pleural Effusion,ae0bff63-ef835e8a-964614d6-1ac0f6db-b428da97,gradcam++
+False,509,802,Pleural Effusion,032c61ca-a330439e-63a05b2c-93456c55-2c44f714,gradcam++
+False,802,510,Pleural Effusion,7c022fc3-c6772821-1371703e-20b597ee-a7e47940,gradcam++
+False,656,660,Pleural Effusion,33eb9059-5a7b1ea0-4e6c72de-74538f51-9bcf952d,gradcam++
+False,660,802,Pleural Effusion,5a0a8d72-9f5cdb38-bf55ceaf-04f44d6b-fd64a78b,gradcam++
+False,514,807,Pleural Effusion,06c4cd61-82fbec20-69c5f99e-ec464c7c-d8723d78,gradcam++
+False,660,514,Pleural Effusion,a637bf5e-d04c4076-503df869-c0d8d286-c1b2c771,gradcam++
+False,514,660,Pleural Effusion,5122883c-b8a9a329-d9716256-f9f18547-64fe2e5c,gradcam++
+False,656,655,Pleural Effusion,b4ec0707-eeb93ba6-42e24205-a8be9a13-772dcffa,gradcam++
+False,660,806,Pleural Effusion,53839985-e43366e7-90b06c03-99e7a336-003b74d9,gradcam++
+False,656,509,Pleural Effusion,ab7ad774-c4a83181-57d3ca36-490a56d4-1a9b3fbb,gradcam++
+False,660,514,Pleural Effusion,82452f13-034d049f-5aa676e8-d7b29bcb-d397abdd,gradcam++
+False,363,953,Pleural Effusion,b75e4086-9352431d-f07e12b0-a8669ac7-28a1f693,gradcam++
+False,514,655,Pleural Effusion,f69eb0cc-a3d32314-a7ebfc04-41f19b13-b5e3f9f0,gradcam++
+False,806,802,Pleural Effusion,d8625268-dce5b980-9e05249b-8a58d21a-4f5fe5db,gradcam++
+False,660,367,Pleural Effusion,6d636875-a62f221c-77ac61c1-847363aa-32a8a476,gradcam++
+False,802,660,Pleural Effusion,f3478a87-0c5d1637-6f2ebba8-e0c4540a-a922039a,gradcam++
+False,660,656,Pleural Effusion,8cd3f85c-98ffdfc5-ae957c65-f0f93500-33719f46,gradcam++
+False,509,514,Pleural Effusion,0ecd25c0-47def068-30042faa-49cda314-6d6138d5,gradcam++
+False,514,802,Pleural Effusion,95d7c772-a7f9a152-f336229b-1873730d-334f8ee3,gradcam++
+False,802,802,Pleural Effusion,942e2db2-4d0af25c-11dff250-96973fb6-99c795f9,gradcam++
+False,655,655,Pleural Effusion,b5333b33-2d7a0404-9e2f5dd2-c7e8a0c4-5bef905e,gradcam++
+False,221,514,Pleural Effusion,70cea66f-584d6ee2-0d04af7b-7bc21135-878f8021,gradcam++
+False,513,807,Pleural Effusion,79fdfed8-c4155937-c0ec5ad0-96cc089d-6442faae,gradcam++
+False,802,801,Pleural Effusion,6dc9c660-d7449f0b-21587456-dbc5c51e-be28d747,gradcam++
+False,802,806,Pleural Effusion,f80be354-ba1d0d35-5ba42839-92f21516-3a852fb5,gradcam++
+False,660,656,Pleural Effusion,18407774-38168bc5-d2713cb1-312c50a6-8bd6607f,gradcam++
+False,660,802,Pleural Effusion,b4bc235d-9582f487-016fae65-c657abc0-3d50033a,gradcam++
+False,660,367,Pleural Effusion,9e9f00a4-2e69b7fa-86e0e4d6-807b92ad-431db337,gradcam++
+False,656,806,Pleural Effusion,50ca77c4-93d92d15-09db5f38-06530247-d8ce3014,gradcam++
+False,656,660,Pleural Effusion,a2a462e6-161e354b-4f291a30-e6dd27f7-def9f4e6,gradcam++
+False,656,660,Pleural Effusion,43542fc7-e598ff19-2ab2908c-2cee9e95-4cdc3806,gradcam++
+False,656,660,Pleural Effusion,e40e9a39-14c9defa-6cec06c6-2e98582b-aeca15d6,gradcam++
+False,510,655,Pleural Effusion,ac702dc2-004af199-9e379ab5-36570259-b7899f89,gradcam++
+False,655,367,Pleural Effusion,70a9543a-f0ce1aa5-4864e74d-b37fb43e-103c81bf,gradcam++
+False,509,368,Pleural Effusion,a0e5b259-45f39d4e-46ac6999-21e4aeac-d793ea99,gradcam++
+False,368,802,Pleural Effusion,4fdc7763-f9d48f5b-9e40e0fb-c0e244b4-9e18e63c,gradcam++
+False,953,806,Pleural Effusion,a25461ff-7f76355c-be2918f0-6af9ab5b-39846cb3,gradcam++
+False,660,367,Pleural Effusion,e5852223-28acc3bf-24480f37-28048f9f-60e22c96,gradcam++
+False,509,368,Pleural Effusion,caf78907-43708822-299bf57a-d6d8a81d-1e68e68b,gradcam++
+False,660,514,Pleural Effusion,c7b0aadd-bd5f99c5-b14d8a80-f1eb032a-27fbb060,gradcam++
+False,514,363,Pleural Effusion,1533a944-5f9f0589-63ee389b-9da366b0-373ae825,gradcam++
+False,509,221,Pleural Effusion,e18acf24-b8b8dcfe-7afd32f8-b062dec8-bca76aaa,gradcam++
+False,802,802,Pleural Effusion,b27c6f0a-9eacfe60-02ef3c7f-16e63706-06f5b724,gradcam++
+False,655,660,Pleural Effusion,663e7459-e9b1446f-38ed35ed-56460945-9f6e5f02,gradcam++
+False,368,655,Pleural Effusion,d9b40a23-ab82f65e-3d609be5-5826afaf-42f8a53f,gradcam++
+False,660,656,Pleural Effusion,39422d96-3f5c1920-93e7e065-59a4bb03-1f828b37,gradcam++
+False,660,363,Pleural Effusion,b09ebe3b-53ed0e6b-011acf48-8099bad4-0fed4abc,gradcam++
+False,509,660,Pleural Effusion,652d768e-6380fdc0-668df11f-549e2a01-9cb3bd8f,gradcam++
+False,514,661,Pleural Effusion,4eacdcdc-9fa95c96-2e50854f-e3d5c438-76021c7e,gradcam++
+False,509,660,Pleural Effusion,c99e5709-296e727a-9c0229be-1c5991e0-371b4ae3,gradcam++
+False,363,660,Pleural Effusion,c8952800-f16bf374-6b9eb39c-34a844dd-cb05f434,gradcam++
+False,655,367,Pleural Effusion,638df92d-9ac5b56d-dcdaf5db-ac5426b9-a407e6ca,gradcam++
+False,801,660,Pleural Effusion,87dcd3a3-d957b787-f080dedb-c52be111-8286f6e9,gradcam++
+False,514,806,Pleural Effusion,b74d4aa1-1d69391e-809694cd-fa4d4f32-6e7ff583,gradcam++
+False,368,802,Pleural Effusion,237625e9-bc520b58-042048a9-8f508db3-f946558d,gradcam++
+False,509,367,Pleural Effusion,e23faadf-67d7879b-abc92d67-68c2968e-c314ed0d,gradcam++
+False,802,802,Pleural Effusion,a9bce35a-bb335508-65bde9c9-1fd94e08-973c4591,gradcam++
+False,660,656,Pleural Effusion,38d6e61c-213edabc-09034fba-2a6e3be8-f8794020,gradcam++
+False,513,806,Pleural Effusion,f34f6c00-e10ceb8b-49bf5879-50cd2927-36f87a07,gradcam++
+False,509,367,Pleural Effusion,502a5a95-f8ebc0ca-e1f76606-4909506d-927bb53c,gradcam++
+False,656,221,Pleural Effusion,51c96ddc-999b4aba-9f7cc3cf-5da5505e-71e563d0,gradcam++
+False,656,660,Pleural Effusion,5189e6dd-b8867c42-0a68047a-12191a3b-9752de59,gradcam++
+False,656,655,Pleural Effusion,94ae1f3e-c1ac7589-548efd06-32a29dec-a1263304,gradcam++
+False,514,514,Pleural Effusion,b2a66e0a-260a1741-90b211a2-6a5e9436-344e6b48,gradcam++
+False,806,655,Pleural Effusion,4703cca7-cb745675-d1ec778f-61da0550-59dcae8e,gradcam++
+False,660,363,Pleural Effusion,18e76026-b30ac5ea-bcca3b0e-ab2b22c0-1d5042f1,gradcam++
+False,655,367,Pleural Effusion,5c5914e0-cd6e8303-41ce910b-e698934c-e87814cd,gradcam++
+False,656,367,Pleural Effusion,7d8b7a72-c3d1506a-53617e18-7bc55bb3-21dffe0b,gradcam++
+False,509,513,Pleural Effusion,7e43b467-c61530e4-07475687-1e45836a-b419bf73,gradcam++
+False,953,953,Pleural Effusion,064e40e3-c2e92d0d-03b9ca17-4890a0c7-dd0374ad,gradcam++
+False,802,802,Pleural Effusion,b9cf8bd5-7844d450-4ce56d7a-9357e26c-1433ffe2,gradcam++
+False,655,656,Pleural Effusion,cc54bd13-3d9beb32-f08b20f6-20a31741-88b14f50,gradcam++
+False,0,953,Pleural Effusion,ae503fa4-2afa8529-d3a4a588-0d3f874c-6bf6ed53,gradcam++
+False,660,655,Pleural Effusion,be060f46-27a2ed67-18275528-f83cff04-f4ae66a9,gradcam++
+False,655,368,Pleural Effusion,71d89a2a-dc2db141-fb9ed28a-b3e5d445-233a0e8e,gradcam++
+False,510,509,Pleural Effusion,a02c9400-80437ab9-32ca77ed-fb53d8bf-1381e6c0,gradcam++
+False,514,656,Pleural Effusion,a5304c68-bdded251-9a67fc34-0610a6c6-25617c29,gradcam++
+False,802,363,Pleural Effusion,f256a02f-730ff242-611c08b6-a4388211-30589689,gradcam++
+False,655,801,Pleural Effusion,9bc3403b-e833526e-6667e9c8-a3cc2983-18bcad71,gradcam++
+False,514,656,Pleural Effusion,c1499878-3b5c4a76-612f626b-04428dd0-086bed1b,gradcam++
+False,514,363,Pleural Effusion,6d51e6e9-a2a8b39a-d3ef6bf3-1caa9aa3-0ee417be,gradcam++
+False,655,510,Pleural Effusion,89103c4e-23bc5caf-967f527e-2d6ee27c-5bae703c,gradcam++
+False,656,367,Pleural Effusion,75e5a75f-48dbc944-b158e3b4-d60fcd2b-e9604899,gradcam++
+False,514,660,Pleural Effusion,664ca830-e72007af-aaa12faa-50f1bf1d-968260f9,gradcam++
+False,368,655,Pleural Effusion,1bdb858f-2555c253-0344b6cf-d1c80021-0ce2f760,gradcam++
+False,655,363,Pleural Effusion,b9fe2c2e-30d84d87-f3f40312-91bcc3b1-001c52d9,gradcam++
+False,660,802,Pleural Effusion,db04e18f-b9893bec-f8a9c077-bcb9a532-c0df434e,gradcam++
+False,655,655,Pleural Effusion,9a390364-c2aba0f9-876564ff-0653777e-2c54dac0,gradcam++
+False,806,802,Pleural Effusion,278e02b9-938c6af5-ebcf853a-2cd0973a-d138219b,gradcam++
+False,660,363,Pleural Effusion,f264010d-07f3d509-212d48ca-1fbb9444-5d44bb5f,gradcam++
+False,367,514,Pleural Effusion,e8723905-c92ea8ef-6893c8ab-98ec6037-31f01fa6,gradcam++
+False,656,656,Pleural Effusion,826b4469-6017264c-2ddd12e8-2e3e5c4c-fe2817bd,gradcam++
+False,656,367,Pleural Effusion,9abf1ba2-593f63a5-f1002a3a-b22f2a22-61f0b2f5,gradcam++
+False,660,660,Pleural Effusion,1bab1fb7-697704fb-e3fd7033-84c373ec-3dd675e4,gradcam++
+False,510,513,Pleural Effusion,855122af-a174509a-01367694-6e13de09-2ec33762,gradcam++
+False,513,660,Pleural Effusion,86f0eda1-1b33b0ab-57f79e40-07c0ee85-0c9ddf80,gradcam++
+False,514,660,Pleural Effusion,2a143a8f-8681357a-09bb671f-de40d36e-dcd02b9c,gradcam++
+False,655,514,Pleural Effusion,b49d8e07-747da074-773d8200-1d2efcf9-b9e1423a,gradcam++
+True,802,368,Pleural Effusion,3ee15aa2-32388516-3d85397d-2d958762-6bc5f7c8,gradcam++
+False,655,660,Pleural Effusion,efdcfc89-a008c952-73c326fc-5528d877-0c59c269,gradcam++
+False,806,953,Pleural Effusion,d0d5e265-f494a4c8-519f1d8c-e8e85bc0-4453c8e5,gradcam++
+False,660,656,Pleural Effusion,6a17ed90-6611af4a-c574ade4-4f0959fa-aec2b397,gradcam++
+False,656,367,Pleural Effusion,756f9e0a-fbbcc87c-f26d0e76-a63cfe70-3fb1e0a5,gradcam++
+False,802,368,Pleural Effusion,5df82d64-bc4f1f73-eb496a95-b0fb5130-c6656478,gradcam++
+False,514,509,Pleural Effusion,9623e36a-fcc911e4-6c5f1aee-679a1abd-91ad1045,gradcam++
+False,656,806,Pleural Effusion,c1875b25-77500901-b90303e0-9b5c3aac-2b57b80c,gradcam++
+False,953,363,Pleural Effusion,11453b36-dbf842af-c3e4cfcc-a77ebf26-202c2f53,gradcam++
+False,656,509,Pleural Effusion,b5b98b36-42aaeabf-59503b54-ba19870a-428b4b22,gradcam++
+False,514,368,Pleural Effusion,13eef527-da482f19-7b2fba99-995254b6-93ef88a0,gradcam++
+False,221,801,Pleural Effusion,96d65adb-e8db3f8e-ce500123-b8e0dc02-ae363495,gradcam++
+False,660,655,Pleural Effusion,cbd554c9-b86ae4ec-a1288a30-2c8d26f4-ab0cca13,gradcam++
+False,660,363,Pleural Effusion,e276b74c-ead369d4-94ec0d06-8b5db80d-f57cfca8,gradcam++
+False,806,802,Pleural Effusion,76088690-1f7556b9-eba1ae04-f5331e28-b2de787a,gradcam++
+False,514,363,Pleural Effusion,640c2a64-fcfdc993-0081d02d-75bacbf8-4deaff09,gradcam++
+False,514,801,Pleural Effusion,561eb351-1641cb83-c4e8e3b7-fa20c2f9-835fa18a,gradcam++
+False,513,802,Pleural Effusion,7f44a40e-12aadcc4-588e6cd1-9fa2c669-5ffdf579,gradcam++
+False,802,660,Pleural Effusion,7acce3a0-4778c5dc-31a92b16-dfc8f72f-61805fa5,gradcam++
+False,509,367,Pleural Effusion,52951571-1c77a0f9-ed17ce3e-2fb7a197-9b05d7d3,gradcam++
+False,660,660,Pleural Effusion,f0d7805f-091462aa-3236871e-db479cac-5597ae2e,gradcam++
+False,660,660,Pleural Effusion,73ea966a-acfa0b18-0307d9f4-8c347965-5eb5ca10,gradcam++
+False,514,655,Pleural Effusion,1e2a42de-9d40293d-9612d649-14286f93-01509a2d,gradcam++
+False,660,660,Pleural Effusion,b3bc621d-3a93d18a-02e470ad-61688bdd-675f8232,gradcam++
+False,368,509,Pleural Effusion,625aa08d-eaba86e1-964add3b-4fab0a42-7fc0c783,gradcam++
+False,656,656,Pleural Effusion,b0f3096d-2d3cce28-c3e3733d-dc8cc874-bc50a004,gradcam++
+False,363,363,Pleural Effusion,8d2c4a42-2cf75053-fdbc0f3e-50586653-1a6e8a6e,gradcam++
+False,509,656,Pleural Effusion,e05cadb5-7efc5e65-2df83800-3e840ab8-2d6bcafb,gradcam++
+False,513,806,Pleural Effusion,34928b11-85389cee-c80f91ce-a084dcd3-4dc56c63,gradcam++
+False,660,802,Pleural Effusion,fbe5fb90-eb85c0f2-bc15dce8-04fc23b9-decc5a98,gradcam++
+False,660,514,Pleural Effusion,02225efc-f8ee89e0-cb6bb81c-589b2231-74def86b,gradcam++
+False,953,221,Pleural Effusion,b4458fe0-a6b1dbb6-92fe321e-071a3235-2210748c,gradcam++
+False,802,802,Pleural Effusion,3531ef4c-eaadd303-e37fd1f5-9459b834-5aecf77c,gradcam++
+False,509,363,Pleural Effusion,1c0218ba-dd762020-59426b59-0594702e-c2d3418d,gradcam++
+True,802,801,Pleural Effusion,cb7a8829-915babe2-5f392bd2-e3574d33-02d7fd33,gradcam++
+False,660,660,Pleural Effusion,e04c8182-3c38d16e-917a286d-3218b19c-54227b2e,gradcam++
+False,513,509,Pleural Effusion,0ca34bf8-c558638b-8b3a99e0-6b634768-23d30f52,gradcam++
+False,513,514,Pleural Effusion,7ab0b0ac-7cf1c994-83acdc03-c0cc2ce1-0c4afc3f,gradcam++
+False,509,656,Pleural Effusion,e832889d-b1986e2c-ef3bce80-917a8115-af8fb6ba,gradcam++
+False,514,368,Pleural Effusion,a511fffa-a8598839-ab7fc2cb-6b7ece64-4369bfd8,gradcam++
+False,656,655,Pleural Effusion,c9bb4994-073530c2-42391b21-612bdd37-ea290b08,gradcam++
+True,806,806,Pleural Effusion,c9c090ca-5b76ed77-03d8364a-c78bd817-9d0394b5,gradcam++
+False,801,656,Pleural Effusion,d55d2aca-042cc3f0-d1b7096f-7c479121-fddfa226,gradcam++
+False,221,655,Pleural Effusion,66a9e504-95e7a7d3-d14e1e2e-27373ab1-b7d53435,gradcam++
+False,655,655,Pleural Effusion,2d7be6ec-b056f791-43910d98-43b2b89d-470af36c,gradcam++
+False,802,367,Pleural Effusion,4f2b5dc1-10852789-88324d17-c3ec3e42-2451f98c,gradcam++
+False,656,802,Pleural Effusion,189eb640-e98c28c9-7a0aed5c-9695772a-4a32d77c,gradcam++
+False,510,367,Pleural Effusion,3142e2f3-a765d98f-8f2b53d5-7269dda1-7685c2ff,gradcam++
+False,806,368,Pleural Effusion,97b21769-fc496d70-d63d4cdd-57e905b7-4148317b,gradcam++
+False,514,660,Pleural Effusion,4e7fe027-616d0952-70ec57f6-550ae82c-ea514847,gradcam++
+False,656,368,Pleural Effusion,3d30e238-ced7cdc9-fc9d0007-806a576b-f8996ebc,gradcam++
+False,514,660,Pleural Effusion,67b0d9bc-11805db2-a7dc28e6-d8d34fba-b5d10fa7,gradcam++
+False,509,363,Pleural Effusion,558bb39e-273be82e-82f09ca0-1b9a1856-ca68937a,gradcam++
+True,802,806,Pleural Effusion,96662597-dbf3b768-7d1c3894-17a4660e-8d6864aa,gradcam++
+False,221,509,Pleural Effusion,85bb2327-ad927b0f-280c7ba0-889962be-e9f29c59,gradcam++
+False,367,363,Pleural Effusion,dfba2506-6090fbed-ac97f8dc-488ee5c9-cb4eaf98,gradcam++
+False,514,509,Pleural Effusion,d1862444-b0c8b173-ee6acad6-c732aeda-41a97d2e,gradcam++
+False,513,660,Pleural Effusion,be2fcef9-8c0db30b-f56c236d-27df9f45-55343c89,gradcam++
+False,656,509,Pleural Effusion,047cae4d-0b66ce27-5d72296c-584e3784-400cd24a,gradcam++
+False,660,363,Pleural Effusion,91c8101b-05aa989d-2d87cfec-bff93887-dd60f5d9,gradcam++
+False,655,363,Pleural Effusion,5aa2a7ec-cad17a3f-43d643d4-6f6c623c-089603c2,gradcam++
+False,363,363,Pleural Effusion,d9e97517-2c6b6b71-eade850b-f5ec281f-eb1cab6a,gradcam++
+False,660,514,Pleural Effusion,38cdacb6-2fe2861d-8a1c21df-0a97c398-edb3c42c,gradcam++
+False,514,509,Pleural Effusion,2eccb67e-a8677000-bc5af537-c58f2e49-f4234ef1,gradcam++
+False,953,363,Pleural Effusion,96c92dc4-a709cf95-10773808-5ce797b1-6d478734,gradcam++
+False,514,801,Pleural Effusion,cdc1594e-8a7a2a1c-89a9cac6-e0710a97-7d04f9c9,gradcam++
+False,655,655,Pleural Effusion,b509b7f2-842bdb8e-7b0639aa-d466ec74-ae5cef89,gradcam++
+False,806,509,Pleural Effusion,cbcf123c-6530bae6-c06564da-486f85c6-d3515233,gradcam++
+False,655,514,Pneumothorax,376f9098-a4aae774-8d45de70-71f5ffca-1662389b,gradcam++
+False,660,802,Pneumothorax,3565b358-250fc12a-0ccb5f07-64a611ec-d2eadff9,gradcam++
+False,801,216,Pneumothorax,11847393-79a9cd4b-c694f7d2-6deb9d0c-286f73d4,gradcam++
+False,514,367,Pneumothorax,4decce85-c6ede74e-7a8bc81c-e81edee9-5ec17116,gradcam++
+False,514,655,Pneumothorax,c3fd6c7b-3b9b786c-94d88f53-fa41583f-24e129eb,gradcam++
+False,510,363,Pneumothorax,276ebb50-89f92d35-dc46a24e-a40ce615-b940600d,gradcam++
+True,221,656,Pneumothorax,5d272846-39b7c805-c948a22c-980f9d30-40928aa3,gradcam++
+False,509,656,Pneumothorax,8db3ef1d-73212ba4-82c5e1ea-a6b51157-3d6dfe47,gradcam++
+False,655,806,Pneumothorax,3e5fe177-588e23e7-45d3a274-405e382f-742bea32,gradcam++
+False,660,216,Pneumothorax,7d04a898-4afacbee-1e9643fa-cb967709-66028907,gradcam++
+False,509,660,Pneumothorax,347e6e5f-5cf07c42-9c417241-2915459c-3387b033,gradcam++
+False,655,363,Pneumothorax,5edae10a-c346320d-53f2fe03-3563c60a-74f169fe,gradcam++
+False,221,513,Pneumothorax,9b4ae0c7-376ab09f-9f4c920f-182a349d-832da5ad,gradcam++
+False,514,363,Pneumothorax,6305fbd9-92f60a6a-582d2de1-0f8f08a1-c8148dc9,gradcam++
+False,655,655,Pneumothorax,499b931e-615fefea-f284fd62-89974427-dee6f613,gradcam++
+False,509,510,Pneumothorax,f57fe8c5-1d43ba0c-f2895847-3689fcd0-25abb74b,gradcam++
+False,514,363,Pneumothorax,79d95931-e8920d05-b2ac8aec-65de0269-4e1fae19,gradcam++
+False,514,363,Pneumothorax,a72472bf-c980073a-9f2793ce-ad1e4b91-c6a42eca,gradcam++
+False,514,363,Pneumothorax,71e2ba52-1cb5861d-4e98e9db-b6438769-b4090afd,gradcam++
+False,363,367,Pneumothorax,3169600c-07c4eb35-c11af2cc-cc6912fa-a5af091e,gradcam++
+False,656,363,Pneumothorax,f31ee9f5-ff5d0f87-1efef64b-4b9a8b12-7cdd7e6d,gradcam++
+False,509,367,Pneumothorax,4a37634c-06891504-c9ec1881-be81c142-c69d2f4a,gradcam++
+False,362,807,Pneumothorax,7fe30834-ef70dcc5-e3604d54-56732749-93f455b5,gradcam++
+True,221,367,Pneumothorax,5c974242-37581fad-a151d05a-80f363d8-2a8bd8e6,gradcam++
+False,656,367,Pneumothorax,b5fca56d-aea97e5d-12024f55-9ec8aab8-e7e4bc85,gradcam++
+False,514,363,Pneumothorax,221cd902-b025bef1-ad2c1318-8572d509-e7442ccb,gradcam++
+False,509,514,Pneumothorax,1d0bfba7-8fb85f8d-3d5accb1-43953bfe-bb8802b1,gradcam++
+False,802,660,Pneumothorax,0687e192-a0277fc1-34cf8885-3a822afd-73336979,gradcam++
+True,217,656,Pneumothorax,5edfd693-1db9298f-aa6f6592-43240670-b7801bc1,gradcam++
+False,660,363,Pneumothorax,01a54937-0232d46f-444e3607-51a83ebb-70ecdc63,gradcam++
+False,656,660,Pneumothorax,c22e49dc-d974c4b6-61b8db98-b69f49d8-bf258f2c,gradcam++
+False,509,368,Pneumothorax,c7c04078-ba971051-5b4a5181-8481c492-cab55590,gradcam++
+False,655,802,Pneumothorax,14cbb5cc-3c722ffa-3ee66972-f7f37c39-dce8fb61,gradcam++
+False,660,363,Pneumothorax,8cc0584c-07d0b0ca-aa6a8c6e-8ec5f238-5eb8bdcc,gradcam++
+False,510,806,Pneumothorax,a6005aed-995ecfc5-642dd286-909d18dc-315d4002,gradcam++
+False,367,367,Pneumothorax,9746b070-92670ce4-3d9d5914-3a987b53-9d0587c2,gradcam++
+False,510,368,Pneumothorax,69dcf5d1-5ca9a878-4bfdf699-c82610da-9acda919,gradcam++
+False,660,660,Pneumothorax,0092af3f-68214a69-71b91f55-b608757e-4f2b6c85,gradcam++
+False,510,221,Pneumothorax,ad95026f-92aa15c1-ba0af434-f6723119-763b2f09,gradcam++
+False,363,802,Pneumothorax,64cabac5-04cd6eea-72b42249-dcda9963-c5220638,gradcam++
+False,660,655,Pneumothorax,bc28437c-2e9945b6-d1c8c023-46e5cdf6-ed7bb870,gradcam++
+True,217,655,Pneumothorax,3f4d3ce5-b5e67e41-f791ef9c-89562aea-9a78a002,gradcam++
+False,655,802,Pneumothorax,205fbc37-90642d15-74001647-e8403238-521b2e38,gradcam++
+False,514,802,Pneumothorax,dd5f588b-7dd5ef20-f3dc5fa2-134c238c-212ea1b8,gradcam++
+False,368,222,Pneumothorax,ee4c2cb9-e878526b-3c9125f5-30b36301-497e0e4f,gradcam++
+False,510,655,Pneumothorax,1f7be955-67eea3fc-d285ca61-287fa210-2e0b0409,gradcam++
+False,514,509,Pneumothorax,b22c90ae-3dc42059-d9ce62cb-7608317b-c974a0f6,gradcam++
+False,660,660,Pneumothorax,5d3c25b4-76e3725a-9246006b-c77a01f7-36e16be9,gradcam++
+False,801,656,Pneumothorax,f0924084-7fde1c46-0709acb5-8273482e-b9d7de1b,gradcam++
+False,953,953,Pneumothorax,baf74b61-aa4e321e-0fad463a-99169ebe-b467f433,gradcam++
+False,514,807,Pneumothorax,be051b25-09c74fbb-d245518c-2a36b434-edd31139,gradcam++
+False,367,367,Pneumothorax,924b494d-1977ef2b-790df1c9-1f3160d9-c9aa5cc7,gradcam++
+False,367,221,Pneumothorax,33375511-6d3ceda3-3f00ff3b-ae5fbf33-6a5ecf4c,gradcam++
+False,509,513,Pneumothorax,93a51ec1-526ea204-a43aac3f-1906aa4b-fe6dfcca,gradcam++
+False,802,509,Pneumothorax,972017fe-e3f4da28-fd157e3d-e915ae8d-7bbc64ac,gradcam++
+False,802,806,Pneumothorax,b2792f6d-baf11d98-e06e8652-31fad9d0-f303a085,gradcam++
+False,514,509,Pneumothorax,ec1dd18e-38c10290-d3c2df39-d3e9e5b6-fb71052a,gradcam++
+True,221,510,Pneumothorax,ec969014-8ee4bf3f-d2bcf531-944f9433-f1e19133,gradcam++
+False,510,656,Pneumothorax,cb06f815-d083a47d-70099a86-ec3e0f14-f146b40b,gradcam++
+False,509,509,Pneumothorax,d1def78c-cee9bf13-d1e50ffc-b18e81cb-d00e996c,gradcam++
+False,509,656,Pneumothorax,3f54d887-10e204a6-701b4f75-d285303c-f5228b2a,gradcam++
+False,655,368,Pneumothorax,08d4c771-6bb87d07-743373f2-6f92e74d-b27d2a98,gradcam++
+False,660,660,Pneumothorax,8fa44876-0cbb0d4d-c20a9870-add63927-caa20bf1,gradcam++
+False,509,655,Pneumothorax,b43793d1-f51681aa-79d625dd-d5c9f76f-90fed548,gradcam++
+False,656,363,Pneumothorax,7b9346a3-08588000-e7a234bc-ccd4a39e-9fea30ef,gradcam++
+False,802,514,Pneumothorax,10201641-377f287b-c762b0d0-c3bcdbf2-833bf93a,gradcam++
+False,660,514,Pneumothorax,4e4138d8-21dbe6c5-a52d3143-a4070fd5-20cb1afd,gradcam++
+False,807,514,Pneumothorax,1e24ae22-3027891c-c7bba699-0786d004-453d20de,gradcam++
+False,0,660,Pneumothorax,eb4fa961-75c97a14-d64b6c7f-18a37287-3e1cbaac,gradcam++

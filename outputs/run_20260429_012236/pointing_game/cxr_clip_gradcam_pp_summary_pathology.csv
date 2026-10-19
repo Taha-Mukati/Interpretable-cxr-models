@@ -1,0 +1,4 @@
+pathology_name,n,hits,pointing_score
+Cardiomegaly,284,231,0.8133802816901409
+Pneumothorax,69,5,0.07246376811594203
+Pleural Effusion,341,7,0.020527859237536656

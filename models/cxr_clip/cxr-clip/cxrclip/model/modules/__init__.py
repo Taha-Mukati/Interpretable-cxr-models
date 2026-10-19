@@ -40,7 +40,7 @@ def load_text_encoder(config_text_encoder: Dict, vocab_size: int):
             pretrained=config_text_encoder["pretrained"],
             gradient_checkpointing=gradient_checkpointing,
             cache_dir=cache_dir,
-            local_files_only=os.path.exists(os.path.join(cache_dir, f'models--{config_text_encoder["name"].replace("/", "--")}')),
+            local_files_only=False,
             trust_remote_code=config_text_encoder["trust_remote_code"],
         )
     else:
